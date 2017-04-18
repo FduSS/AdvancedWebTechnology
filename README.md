@@ -7,8 +7,8 @@
 
 ## Project
 - [Idea 1: VR 电子商务](https://fduss.github.io/AdvancedWebTechnology/project_vr_e_commerce)
-- Idea 2 (Not Available)
-- Idea 3 (Not Available)
+- [Idea 2: 多人 VR 环境](https://fduss.github.io/AdvancedWebTechnology/project_vr_campus)
+- [Idea 3: 移动社交平台](https://fduss.github.io/AdvancedWebTechnology/project_social)
 
 ## Contact
 Teaching Assistants:
