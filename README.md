@@ -1,9 +1,9 @@
 ## Welcome to SOFT130050.01 Advanced Web Technology
 
 ## Labs
-- Lab 1 (Not Available)
+- [Lab 1 Three.js + XML](https://fduss.github.io/AdvancedWebTechnology/Lab1_Three.js+XML)
+- [Lab 1 Angular 2](https://fduss.github.io/AdvancedWebTechnology/Lab1_Angular)
 - Lab 2 (Not Available)
-- Lab 3 (Not Available)
 
 ## Project
 - [Idea 1: VR 电子商务](https://fduss.github.io/AdvancedWebTechnology/project_vr_e_commerce)
@@ -13,9 +13,11 @@
 ## Contact
 Teaching Assistants:
 - **Zhongyi Tong**
+   - WeChar ID: ZHONGYI_TONG
    - E-mail: [zhongyi.tong@foxmail.com](mailto:zhongyi.tong@foxmail.com)
    - GitHub: [https://github.com/geeeeeeeeek]( https://github.com/geeeeeeeeek)
 
 - **Fengshuang Li**
+   - WeChat ID: lfs941102
    - E-mail: [13302010002@fudan.edu.cn](mailto:13302010002@fudan.edu.cn)
    - GitHub: [https://github.com/lfs1102](https://github.com/lfs1102)
