@@ -1,4 +1,4 @@
-## Welcome to SOFT130050.01 Advanced Web Technology
+## SOFT130050.01 高级 Web 技术
 
 ## Labs
 - [Lab 1 Three.js + XML](https://fduss.github.io/AdvancedWebTechnology/Lab1_Three.js+XML)
@@ -10,10 +10,9 @@
 - [Idea 2: 多人 VR 环境](https://fduss.github.io/AdvancedWebTechnology/project_vr_campus)
 - [Idea 3: 移动社交平台](https://fduss.github.io/AdvancedWebTechnology/project_social)
 
-## Contact
-Teaching Assistants:
+## 联系助教
 - **Zhongyi Tong**
-   - WeChar ID: ZHONGYI_TONG
+   - WeChat ID: ZHONGYI_TONG
    - E-mail: [zhongyi.tong@foxmail.com](mailto:zhongyi.tong@foxmail.com)
    - GitHub: [https://github.com/geeeeeeeeek]( https://github.com/geeeeeeeeek)
 
