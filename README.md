@@ -1,5 +1,3 @@
-## SOFT130050.01 高级 Web 技术
-
 ## Labs
 - [Lab 1 Three.js + XML](https://fduss.github.io/AdvancedWebTechnology/Lab1_Three.js+XML)
 - [Lab 1 Angular 2](https://fduss.github.io/AdvancedWebTechnology/Lab1_Angular)
