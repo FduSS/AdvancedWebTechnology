@@ -1,7 +1,7 @@
 ## Homework
 对 wiki 中列出的技术进行实践；或者阅读 Web 相关的论文文献，写综述；
 
-### 提交时间
+**提交时间**
  - 第 10 周之前: 提交第一个作业：
  - 第 16 周之前: 提交第二个作业：
 
@@ -10,7 +10,7 @@
 - [Lab 1 Angular 2](https://fduss.github.io/AdvancedWebTechnology/Lab1_Angular)
 - Lab 2 (Not Available)
 
-### 提交时间
+**提交时间**
  - Lab 1: 9 或者 10 周
  - Lab 2: 第 15 周
  
@@ -19,7 +19,7 @@
 - [Idea 2: 多人 VR 环境](https://fduss.github.io/AdvancedWebTechnology/project_vr_campus)
 - [Idea 3: 移动社交平台](https://fduss.github.io/AdvancedWebTechnology/project_social)
 
-### 提交时间
+**提交时间**
  - 第 10 周: 检查 PJ 前端完成情况
  - 第 15 周: 开始接受提交 PJ 并且检查记录成绩；优秀的 PJ 第16周做 PRE 并且加分；晚交的适当减分
  - 第 17 周: 提交截止
