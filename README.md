@@ -3,7 +3,7 @@
 ## Labs
 - [Lab 1 Three.js + XML](https://fduss.github.io/AdvancedWebTechnology/Lab1_Three.js+XML)
 - [Lab 1 Angular 2](https://fduss.github.io/AdvancedWebTechnology/Lab1_Angular)
-- Lab 2 (Not Available)
+- [Lab 2 Spring Boot + MyBatis](https://fduss.github.io/AdvancedWebTechnology/Lab2)
 
 ## Project
 - [Idea 1: VR 电子商务](https://fduss.github.io/AdvancedWebTechnology/project_vr_e_commerce)
